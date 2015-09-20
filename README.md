@@ -1,0 +1,2 @@
+# Bingo-repository
+Something spacial!
